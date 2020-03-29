@@ -1,0 +1,5 @@
+﻿  BTLTM.cpp
+C:\TiennmS\LTM\BTLTM\BTLTM\BTLTM.cpp(5,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\TiennmS\LTM\BTLTM\BTLTM\BTLTM.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\TiennmS\LTM\BTLTM\BTLTM\BTLTM.cpp(19,16): warning C4018: '<': signed/unsigned mismatch
+  BTLTM.vcxproj -> C:\TiennmS\LTM\BTLTM\Debug\BTLTM.exe

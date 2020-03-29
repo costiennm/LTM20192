@@ -1,0 +1,3 @@
+﻿  Bai2_TCPServer.cpp
+C:\TiennmS\LTM\Assignment_week3\Bai2_TCPServer\Bai2_TCPServer.cpp(28,27): warning C4244: 'argument': conversion from 'double' to 'u_short', possible loss of data
+  Bai2_TCPServer.vcxproj -> C:\TiennmS\LTM\Assignment_week3\Debug\Bai2_TCPServer.exe
