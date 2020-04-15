@@ -1,0 +1,6 @@
+﻿  Thread1.cpp
+C:\TiennmS\LTM\tuan4\Thread1\Thread1.cpp(12,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\TiennmS\LTM\tuan4\Thread1\Thread1.cpp(12,1): error C2371: 'step': redefinition; different basic types
+C:\TiennmS\LTM\tuan4\Thread1\Thread1.cpp(8): message : see declaration of 'step'
+C:\TiennmS\LTM\tuan4\Thread1\Thread1.cpp(12,6): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\TiennmS\LTM\tuan4\Thread1\Thread1.cpp(18,5): error C2059: syntax error: 'return'
